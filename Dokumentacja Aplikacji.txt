@@ -1,0 +1,5 @@
+Styl jest podłączony zewnętrznie z pliku style.css, tym samym jest niezbędny do poprawnego wyświetlania.
+Każda strona posiada odpowiedniki nawigacyjne, do siebie. 
+Przy wpisywaniu id nie można zatwierdzać enterem, należy kliknąć guzik, który został do tego umieszczony, unikamy tym samym przypadkowego naciśnięcia i dodania rekordu do tabeli.
+Baza danych załączona w archiwum posiada w standardzie 3 testowe rekordy, którę się nie powtarzają.
+Należy również pamiętać, iż rekord i dane którę się powtarzają (takie jak e-mail) nie pozwolą nam na jego dodanie, tym samym na przejście dalej.
