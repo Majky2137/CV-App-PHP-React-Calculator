@@ -42,7 +42,7 @@ body {
     padding: .75rem;
     word-wrap: break-word; 
     word-break: break-all;
-    border-radius: 20px 20px 0px 0px;
+    border-radius: 19px 19px 0px 0px;
 }
 
 .output .prev-operand {
